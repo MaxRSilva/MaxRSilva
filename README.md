@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Max RSilva 😁
+## Bem-vindo(a) ao meu perfil, iniciando nos estudos de Unity para futuro desenvolvedor de jogos
 
  <div>
    <a href="https://github.com/MaxRSilva">
