@@ -1,3 +1,3 @@
 ## 🐍 Snake Game
 
-![Snake animation](https://github.com/MaxRSilva/MaxRSilva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MaxRSilva/MaxRSilva/raw/output/dist/github-snake.svg)
