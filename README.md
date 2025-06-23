@@ -57,7 +57,7 @@
 ## 🌐 Contato & Redes
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/MaxRSilva/" target="_blank">
+  <a href="https://linkedin.com/in/max-ramon-silva-417922303" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:seuemail@email.com" target="_blank">
