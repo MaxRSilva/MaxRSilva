@@ -44,13 +44,9 @@
 
 ---
 
-## 🐍 Snake Game (Contribuições)
+## 🐍 Snake Game (contributions)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MaxRSilva/MaxRSilva/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MaxRSilva/MaxRSilva/blob/output/github-snake.svg" />
-  <img alt="snake gif" src="https://github.com/MaxRSilva/MaxRSilva/blob/output/github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/MaxRSilva/MaxRSilva/raw/output/dist/github-snake-dark.svg)
 
 ---
 
