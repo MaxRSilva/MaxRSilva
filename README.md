@@ -12,8 +12,9 @@
 ---
 
 ## 🚀 Sobre mim
-- 🔥 Desenvolvedor apaixonado por tecnologia
-- 💻 Full Stack em constante evolução
+- 🔥 Desenvolvedor apaixonado por tecnologia e jogos 
+- 🕹️ Desenvolvedor de jogos na Unity 
+- 💻 Programador em Python e SQL para fins empresariais  
 - 🚀 Amante de código limpo e boas práticas
 - 📚 Sempre aprendendo algo novo
 
