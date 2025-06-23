@@ -44,13 +44,9 @@
 
 ---
 
-## 🐍 Snake Game (Contribuições)
+## 🐍 Snake Game (contributions)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MaxRSilva/MaxRSilva/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MaxRSilva/MaxRSilva/blob/output/github-snake.svg" />
-  <img alt="snake gif" src="https://github.com/MaxRSilva/MaxRSilva/blob/output/github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/MaxRSilva/MaxRSilva/raw/output/dist/github-snake-dark.svg)
 
 ---
 
@@ -60,10 +56,10 @@
   <a href="https://linkedin.com/in/max-ramon-silva-417922303" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@email.com" target="_blank">
+  <a href="MaxRamonNB@Gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/MaxRSilva" target="_blank">
+  <a href="https://maxrsilva.github.io/portifolio/" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
