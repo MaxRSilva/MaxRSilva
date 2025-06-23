@@ -2,7 +2,7 @@
 
 <p align="center" style="max-width: 600px; margin: 0 auto;">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&size=24&lines=Desenvolvedor+Fullstack;Apaixonado+por+Tecnologia;Sempre+aprendendo+novas+coisas" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&size=24&lines=Apaixonado por programação" 
     alt="Typing SVG" 
     style="width: 100%; max-width: 600px; height: 80px;" 
   />
