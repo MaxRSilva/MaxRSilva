@@ -12,8 +12,9 @@
 ---
 
 ## 🚀 Sobre mim
-- 🔥 Desenvolvedor apaixonado por tecnologia
-- 💻 Full Stack em constante evolução
+- 🔥 Desenvolvedor apaixonado por tecnologia e jogos 
+- 🕹️ Desenvolvedor de jogos na Unity 
+- 💻 Programador em Python e SQL para fins empresariais  
 - 🚀 Amante de código limpo e boas práticas
 - 📚 Sempre aprendendo algo novo
 
@@ -43,17 +44,20 @@
 
 ---
 
+## 🐍 Snake Game (Contribuições)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MaxRSilva/MaxRSilva/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MaxRSilva/MaxRSilva/blob/output/github-snake.svg" />
+  <img alt="snake gif" src="https://github.com/MaxRSilva/MaxRSilva/blob/output/github-snake.svg" />
+</picture>
 
-## 🐍 Snake Game Contribuition
-
-![Snake animation](https://github.com/MaxRSilva/MaxRSilva/raw/output/dist/github-snake-dark.svg)
-
+---
 
 ## 🌐 Contato & Redes
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/MaxRSilva/" target="_blank">
+  <a href="https://linkedin.com/in/max-ramon-silva-417922303" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:seuemail@email.com" target="_blank">
