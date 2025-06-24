@@ -66,8 +66,8 @@
 
 ---
 
-## 👀 Contador de Visitantes
+## 👾 Contador de Visitantes
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaxRSilva&style=for-the-badge&color=blue" alt="Visitor badge"/>
+  <img src="https://count.getloli.com/get/@MaxRSilva.visitas?theme=sketch-2" alt="Contador de Visitantes"/>
 </p>
