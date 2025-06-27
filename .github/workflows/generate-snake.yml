@@ -11,14 +11,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Pega o histórico completo de commits
+          fetch-depth: 0  # importante para pegar todos os commits
 
       - name: Run GitHub Snake Action
         uses: dkhamsing/github-snake-action@v1
 
-      - name: Commit and Push SVG to output branch
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
