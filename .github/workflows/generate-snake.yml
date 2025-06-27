@@ -1,35 +1,30 @@
-name: Generate Snake
+name: Update GitHub Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - output
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate the Snake
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          fetch-depth: 0  # Pega o histórico completo de commits
+
+      - name: Run GitHub Snake Action
+        uses: dkhamsing/github-snake-action@v1
+
+      - name: Commit and Push SVG to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout output || git checkout -b output
+          git add dist/github-snake-dark.svg
+          git commit -m "Update snake animation [skip ci]" || echo "No changes to commit"
+          git push origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit and Push Changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "Generate contribution snake"
-          add: "dist/*"
