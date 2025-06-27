@@ -56,7 +56,7 @@
   <a href="https://linkedin.com/in/max-ramon-silva-417922303" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="MaxRamonNB@Gmail.com" target="_blank">
+  <a href="mailto:MaxRamonNB@Gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://maxrsilva.github.io/portifolio/" target="_blank">
@@ -66,8 +66,8 @@
 
 ---
 
-## 👀 Contador de Visitantes
+## 👾 Contador de Visitantes
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaxRSilva&style=for-the-badge&color=blue" alt="Visitor badge"/>
+  <img src="https://count.getloli.com/get/@MaxRSilva.visitas?theme=sketch-2" alt="Contador de Visitantes"/>
 </p>
