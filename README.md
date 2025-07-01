@@ -69,5 +69,6 @@
 ## 👾 Contador de Visitantes
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@MaxRSilva.visitas?theme=sketch-2" alt="Contador de Visitantes"/>
+Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MaxRSilva/count.svg" />
 </p>
